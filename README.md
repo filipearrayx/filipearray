@@ -11,4 +11,9 @@
   <img align="center" alt=bootstrap height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
 </div>
 <hr>
+<div> 
+  <a href="https://twitter.com/filipearray" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+  
+![Snake animation](https://github.com/filipearray/filipearray/blob/output/github-contribution-grid-snake.svg)
+
  
